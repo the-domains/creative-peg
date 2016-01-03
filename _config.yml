@@ -2,12 +2,13 @@ name: Creative Peg
 favicon: null
 layout_spectrum: 0.01649044523946941
 typography_spectrum: 0.1303929896093905
+title: Marketing - Web Design - Branding - Logos
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-40196779-1
   facebook: null
   twitter: null
 opengraph:
