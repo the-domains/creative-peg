@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Marketing - Web Design - Branding - Logos]]></title>
         <description><![CDATA[Marketing - Web Design - Branding - Logos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creative-peg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 05:19:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 05:31:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative-peg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our client Baileys Sweeper in Las Vegas, NV]]></title>
+            <description><![CDATA[<article><h1>Our client Baileys Sweeper in Las Vegas, NV</h1><p>Visit their website we built  at: http://www.baileyssweeper.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bb221e6fd04501f164ea27da40f5eb146c343a9.png"></article>]]></description>
+            <link>https://thegrid.ai/creative-peg/our-client-baileys-sweeper-in-las-vegas-nv/index.html</link>
+            <guid isPermaLink="false">308f4fdf-0c1e-4213-b716-4cbb957e936e</guid>
+            <pubDate>Sun, 03 Jan 2016 05:30:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa287251-138b-4721-827f-fd7a331fa17d.JPG">]]></description>
-            <link>undefined7f8ba56c-1656-47fe-86da-108b231cfdbe/index.html</link>
+            <link>https://thegrid.ai/creative-peg/7f8ba56c-1656-47fe-86da-108b231cfdbe/index.html</link>
             <guid isPermaLink="false">7f8ba56c-1656-47fe-86da-108b231cfdbe</guid>
             <pubDate>Sun, 03 Jan 2016 05:19:10 GMT</pubDate>
         </item>
